@@ -39,6 +39,7 @@
         ciclo completo: <b>arquitetura → produto → deploy → métrica → iteração</b>.
       </p>
       <ul>
+        <li><b>Poliglota por convicção</b> — TypeScript, Go, Java e Python, a ferramenta certa pra cada gargalo.</li>
         <li><b>Mentalidade de produto</b> — cada linha de código serve a um número de negócio.</li>
         <li><b>Infra como vantagem</b> — Kubernetes, Kafka e Terraform pra escalar sem dor.</li>
         <li><b>Builder incansável</b> — shipping &gt; talking. Sempre.</li>
@@ -157,30 +158,20 @@
   </a>
 </p>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">📈 Resumo do Perfil</h3>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItaloCoimbra/ItaloCoimbra/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItaloCoimbra/ItaloCoimbra/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ItaloCoimbra/ItaloCoimbra/output/github-snake.svg" width="100%" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ItaloCoimbra&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ItaloCoimbra&theme=tokyonight" height="200" />
 </p>
 
-<h3 align="center">🌆 Contribuições em 3D</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img alt="github 3d contribution calendar" src="./profile-3d-contrib/profile-season-animate.svg" width="100%" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItaloCoimbra&theme=tokyonight" width="100%" />
 </p>
 
-<h3 align="center">📊 Metrics & Isocalendar 3D</h3>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItaloCoimbra/ItaloCoimbra/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ItaloCoimbra&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ItaloCoimbra&theme=tokyonight&utcOffset=-3" height="200" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3&section=footer" width="100%" />
