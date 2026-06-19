@@ -39,10 +39,6 @@
         ciclo completo: <b>arquitetura → produto → deploy → métrica → iteração</b>.
       </p>
       <ul>
-        <li><b>Poliglota por convicção</b> — TypeScript, Go, Java e Python, a ferramenta certa pra cada gargalo.</li>
-        <li><b>Mentalidade de produto</b> — cada linha de código serve a um número de negócio.</li>
-        <li><b>Infra como vantagem</b> — Kubernetes, Kafka e Terraform pra escalar sem dor.</li>
-        <li><b>Builder incansável</b> — shipping &gt; talking. Sempre.</li>
       </ul>
     </td>
     <td width="42%" valign="top">
